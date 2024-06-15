@@ -1,0 +1,34 @@
+
+repos:
+  - repo: https://github.com/pre-commit/pre-commit-hooks
+    rev: v2.5.0
+    hooks:
+      - id: check-added-large-files
+      - id: check-json
+      - id: check-toml
+      - id: check-yaml
+  - repo: https://github.com/pycqa/isort
+    rev: 5.10.1
+    hooks:
+      - id: isort
+  - repo: https://github.com/psf/black
+    rev: 22.8.0
+    hooks:
+      - id: black
+        args: [--config=pyproject.toml]
+  - repo: https://github.com/pycqa/flake8
+    rev: 5.0.4
+    hooks:
+    - id: flake8
+      additional_dependencies: [
+        flake8-docstrings,
+        flake8-bugbear,
+        flake8-comprehensions
+        ]
+      args: [--config=pyproject.toml]
+  - repo: https://github.com/pre-commit/mirrors-mypy
+    rev: v0.981
+    hooks:
+    - id: mypy
+      args: [--config=pyproject.toml]
+
