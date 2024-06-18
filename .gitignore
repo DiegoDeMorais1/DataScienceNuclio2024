@@ -1,5 +1,9 @@
 /data/
 /PDFs/
 /.ipynb_checkpoints/
+/pdf/
+/env/
+/outputs/
 
 **/*.csv
+**/*.pdf
