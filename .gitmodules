@@ -1,3 +1,7 @@
 [submodule "M4-Deep-learning/nuclio_pytorch"]
 	path = M4-Deep-learning/nuclio_pytorch
 	url = https://github.com/DiegoDeMorais1/nuclio_pytorch
+
+[submodule "M5-MLOps/CloudMLCompose"]
+	path = M5-MLOps/CloudMLCompose
+	url = https://github.com/DiegoDeMorais1/CloudMLCompose
