@@ -1,5 +1,7 @@
 # Data Science - Master Propio - Nuclio Digital school
 
+[![PyPI version](https://badge.fury.io/py/pandas.svg)](https://badge.fury.io/py/pandas)
+
 Notebooks do curso de formação, turma 2024
 
 M1 - Data Science Tools - Módulo dedicado ao desenvolvimento das bases sobre a linguagem de Python e SQL. Sobre a linguagem Python, como definir variáveis, listas, dicionários, bem como a utilização de condições, iteradores funções.
