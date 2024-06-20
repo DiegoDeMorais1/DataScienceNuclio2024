@@ -5,3 +5,7 @@
 [submodule "M5-MLOps/CloudMLCompose"]
 	path = M5-MLOps/CloudMLCompose
 	url = https://github.com/DiegoDeMorais1/CloudMLCompose
+
+[submodule "M5-MLOps/CloudML"]
+	path = M5-MLOps/CloudML
+	url = https://github.com/DiegoDeMorais1/CloudML
