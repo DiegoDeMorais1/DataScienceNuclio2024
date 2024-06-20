@@ -13,10 +13,19 @@ M2 - Data Analytics - Módulo focado na análise de dados, perceber como os anal
 * Data Visualization in Python
 
 M3 - Machine Learing - Aprendizagem supervisionada, e não supervisionada.
-Aprendizagem supervisionadas:
-* Classificação e regressão
-Aprendizagem sem supervisão:
-* Clustering
-* Collaborative Filtering
+* Aprendizagem supervisionadas: Classificação e regressão
+* Aprendizagem sem supervisão: Clustering e Collaborative Filtering
+
+M4 - Deep Learning
+* Rede neural e suas componentes
+* Diferentes arquiteturas de redes neuronal
+* Processar informações não estruturadas
+
+M5 - MLOps
+* Ferramentas MLOps
+* Introdução à Cloud: Docker, Kubernetes e AirFlow
+* Colocar um modelo de Data Science em produção
+
+TFM - trabalho de conclusão: Capstone Project
 
 
