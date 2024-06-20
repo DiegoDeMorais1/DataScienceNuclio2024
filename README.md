@@ -8,4 +8,15 @@ M1 - Data Science Tools - Módulo dedicado ao desenvolvimento das bases sobre a 
 * Python - Pandas DataFrame + good practices using Pandas
 * SQL - Select + Joins + Good practices in SQL
 
-M2 - 
+M2 - Data Analytics - Módulo focado na análise de dados, perceber como os analisar em detalhes e, sempre que necessário, limpar ou transformar os mesmos. Visualização de dados, e análise exploratória.
+* Realizar transformações de dados, pré-processamento, padronizações e visualizações
+* Data Visualization in Python
+
+M3 - Machine Learing - Aprendizagem supervisionada, e não supervisionada.
+Aprendizagem supervisionadas:
+* Classificação e regressão
+Aprendizagem sem supervisão:
+* Clustering
+* Collaborative Filtering
+
+
