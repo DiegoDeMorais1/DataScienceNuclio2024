@@ -1,6 +1,0 @@
-paths:
-  /store: {}
-info:
-  title: Store API
-  version: 1.0.0
-openapi: 3.0.0
